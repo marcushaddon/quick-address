@@ -140,7 +140,7 @@ cC=camelCase,
 cc=lowercase
 c_c=snake_case,
 C_C=Snake_Case,
-c-c=WHATS THIS CALLED?,
+c-c=spinal-case/kebab-case/train-case/lisp-case,
 natural=Natural Case
 ''')
 @click.option(
